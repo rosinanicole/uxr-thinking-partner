@@ -97,6 +97,8 @@ Bring everything together into a clear scope. This should include:
 
 Present the scope as a structured summary and ask the user to confirm, correct, or refine.
 
+**Transition to proposing:** Once you have the decision level, the testable layers, the evidence types, and the user has confirmed the framing is right — stop asking questions and draft the scope. Don't ask what artifact they have or clarify further constraints unless something is genuinely ambiguous. Propose a complete scope summary and let the user react to it. A concrete draft they can push back on moves the conversation forward faster than another round of questions.
+
 ## When to Deploy Which Prompt
 
 Nikki Anderson's framing prompts (detailed in references/nikki-framing-prompts.md) are tools, not a checklist. Use this guide:
