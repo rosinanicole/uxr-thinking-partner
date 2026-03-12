@@ -25,13 +25,14 @@ OCCRP (Organized Crime and Corruption Reporting Project) is an investigative jou
 
 - **Lyssna:** Active subscription for running user research tests (moderated and unmoderated).
 - **Figma Make:** On radar for rapid clickable prototyping from designer mockups.
+- **Hall's Design Research Process Model (PDF):** The full process model is at `references/hall-design-research-process-model.pdf`. The summary in this file covers the essentials; consult the PDF when you need the complete model with all method mappings and category connections.
+
 
 ## Frameworks
 
 Three interdependent frameworks underpin all research work. Hall provides the sequence. Calabro provides the evidence quality lens at every stage. Anderson's FAST model structures effective input.
 
 ### Erika Hall's Design Research Process Model
-
 The structural spine for all research work. A basic process, not dogma.
 
 **Stages:** Clarity → Questions → Refinement → Methods → Analysis and Synthesis → Integration
@@ -51,7 +52,15 @@ The structural spine for all research work. A basic process, not dogma.
 
 **Critical principle:** If there are no areas of significant uncertainty regarding the decisions at hand, there is no need to do research. Always check before proceeding.
 
-**Method selection:** Choose the method that answers the questions to a sufficient level of confidence by the decision date. Methods are tools, not rituals.
+**Method selection:** Choose the method that answers the questions to a sufficient level of confidence by the decision date. Methods are tools, not rituals. Consult the PDF to determine which methods are most appropriate for which type of research.
+
+**Integration:**
+- **Document:** Reporting findings accurately
+- **Share:** Contextualize and communicate
+- **Apply:** Review decisions in light of findings
+- **Reflect:** Discuss meta lessons of this study
+- **Remember:** Connect insights to future work
+- **Generate:** What additional questions emerged?
 
 ### Trevor Calabro's Evidence Hierarchy
 
