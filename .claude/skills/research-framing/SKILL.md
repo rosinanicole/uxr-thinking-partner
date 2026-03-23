@@ -99,6 +99,8 @@ Present the scope as a structured summary and ask the user to confirm, correct, 
 
 **Transition to proposing:** Once you have the decision level, the testable layers, the evidence types, and the user has confirmed the framing is right — stop asking questions and draft the scope. Don't ask what artifact they have or clarify further constraints unless something is genuinely ambiguous. Propose a complete scope summary and let the user react to it. A concrete draft they can push back on moves the conversation forward faster than another round of questions.
 
+**Handoff:** Once the scope is agreed, offer to save it to a study folder (e.g., `studies/[study-name]/scope.md`). If the user wants to move to test design — building the screener, questions, and protocol — direct them to the `/research-design` skill. Do not produce a test plan within the framing skill.
+
 ## When to Deploy Which Prompt
 
 Nikki Anderson's framing prompts (detailed in references/nikki-framing-prompts.md) are tools, not a checklist. Use this guide:
