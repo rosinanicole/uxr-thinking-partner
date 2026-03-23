@@ -130,6 +130,7 @@ Research skills map to stages of Hall's process model. Each skill contains stage
 | Skill | Stage | Purpose |
 |---|---|---|
 | `research-framing` | Clarity + Questions | Messy research need → well-scoped study |
+| `research-design` | From Scope to Test Plan | Turn the scope into a test plan |
 | `research-checkpoint` | During fieldwork | Sanity-check patterns, pressure-test, course-correct |
 | `research-synthesis` | Analysis + Synthesis | Sharpen insights, validate patterns, check bias |
 | `research-communicate` | Integration | Frame findings for audiences, strengthen recommendations |
