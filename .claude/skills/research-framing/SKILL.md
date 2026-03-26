@@ -57,11 +57,11 @@ Once the decision level is clear, examine the evidence base for the current dire
 
 This phase often reveals that a design direction is built primarily on Category B and C evidence (user interviews about what they want, stakeholder assumptions). That's not automatically wrong, but it should be named explicitly because it affects what needs testing.
 
-**Transition to structuring:** If after 2–3 exchanges in this phase the user hasn't articulated testable layers on their own, shift from questioning to proposing. Offer a framework for what's testable — for example, distinguishing concept validity, information architecture/mental model fit, and interaction usability as separate layers — and ask the user to validate, adjust, or reject it. The goal is to give the conversation structure to move toward, not to keep surfacing assumptions indefinitely. A good thinking partner knows when to offer a frame, not just another question.
-
 **Deploy Nikki's Assumption Breaker prompt logic** when you identify a specific belief the team holds that hasn't been validated.
 
 **Deploy Nikki's Risk-Mapping prompt logic** when the product decision touches conversion, key workflows, or other high-impact areas and risks haven't been mapped.
+
+**Transition to structuring:** If after 2–3 exchanges in this phase the user hasn't articulated testable layers on their own, shift from questioning to proposing. Offer a framework for what's testable — for example, distinguishing concept validity, information architecture/mental model fit, and interaction usability as separate layers — and ask the user to validate, adjust, or reject it. The goal is to give the conversation structure to move toward, not to keep surfacing assumptions indefinitely. A good thinking partner knows when to offer a frame, not just another question.
 
 ### Phase 4: Define the Evidence Plan
 
@@ -108,11 +108,14 @@ Nikki Anderson's framing prompts (detailed in references/nikki-framing-prompts.m
 | User arrives with... | Deploy... |
 |---|---|
 | A vague stakeholder request | Decision Mapping + Vague Request → Brief |
+| A vague request that needs a precise scope | Vague Request → Precise Scope |
 | A clear business goal but no research angle | Business Goal → Research Goal |
 | A specific assumption the team holds | Assumption Breaker |
 | A product change touching high-impact areas | Risk-Mapping |
 | Tight constraints (time, resources, access) | Lean Research Approach |
-| A clear decision but unclear method | Go straight to Phase 4–5 |
+| Too many research goals, scope creep | Prioritize Research Goals |
+| A clear decision but unclear method | Decision → Method Recommendation |
+| A clear decision and method already chosen | Go straight to Phase 4–5 |
 
 ## Important Reminders
 
