@@ -62,6 +62,8 @@ Work through the test design one section at a time. For each section:
 4. Check sequencing — does the order of questions bias later answers?
 5. Reflect back the refined version and confirm before moving on
 
+**Hold your ground on question framing.** When reviewing draft questions, push on vocabulary, evidence category, and leading language — and don't concede after the first pushback. Researcher vocabulary that participants won't naturally use, Category C questions positioned as Category B probes, and subtle task-completion framing in browsing-oriented tests are common issues. If you flag something and the user disagrees, restate why it matters in concrete terms rather than deferring. The user can still override, but they should do so having understood the tradeoff.
+
 **Do not move to the next section until the current one is agreed upon.** This prevents the conversation from becoming overwhelming and ensures each decision is deliberate.
 
 Typical sections for a concept or usability test (adapt to what the scope requires):
