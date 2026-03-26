@@ -115,3 +115,61 @@ When timeline is tight, design isn't ready, team is anxious, scope is too big, o
 ### Follow-up angles
 - Turn into a Slack update for the team
 - Draft a script for lean sessions
+
+---
+
+## Prompt 7: Vague Request → Precise Scope
+
+### When to use it
+When someone asks for "a test," "a quick study," "validation," or "feedback" — any phrasing that sounds like a task with zero definition. When your instinct is to react to the shape of the request rather than uncover the logic behind it.
+
+**Note:** This differs from Prompt 4 (Vague Request → Actionable Brief). The Brief prompt converts a stakeholder message into something understandable. This Scope prompt goes further — it turns a vague request into a precise, bounded research scope with goals, boundaries, and a decision path.
+
+### Logic to follow
+1. **Extract intent.** What is the person trying to learn, understand, or fix?
+2. **Identify the real decision.** What decision does this request actually support? List 3 possible decisions if unclear.
+3. **Define the insight boundaries.** Based on the decision, what belongs inside the research scope? What belongs outside?
+4. **Translate into research goals.** Rewrite the request into 2–3 sharp, user-centered research goals tied to behaviors, perceptions, or decisions.
+5. **Clarifying questions.** Draft 5–7 questions to confirm alignment, scope, expectations, and decision paths.
+6. **Draft a scope summary.** A concise paragraph covering what the research will cover, who it serves, and which decision it supports.
+
+### Follow-up angles
+- Rewrite the scope summary for Slack
+- Surface hidden tensions or conflicts in the request
+- Create versions tailored for design vs product audiences
+
+---
+
+## Prompt 8: Decision → Method Recommendation
+
+### When to use it
+When a team expects a method before they have clarified the problem. When they want usability testing but the decision is strategic. When they want a survey but the question is exploratory. When the wrong method choice would sabotage the study.
+
+### Logic to follow
+1. **Identify what evidence the team needs.** Describe the user behaviors, perceptions, or signals required to support or challenge the decision.
+2. **Map evidence to method.** For each evidence need, list the research methods that can uncover it and explain the fit.
+3. **Recommend the best method.** Propose the method that aligns most closely with the decision and the risk level, with a short explanation of why it works.
+4. **Define limitations.** What limitations come with this method? Where do you need to be cautious?
+5. **Draft a justification.** A short explanation of the method choice suitable for PMs and designers.
+
+### Follow-up angles
+- Rewrite the justification for exec concerns
+- Propose a hybrid approach if something faster is needed
+
+---
+
+## Prompt 9: Prioritize Research Goals Based on Value + Risk
+
+### When to use it
+When stakeholders hand you more goals than you can cover. When everyone says every question is urgent. When you feel pressure to include everything. When scope creep is lurking.
+
+### Logic to follow
+1. **Map each goal to:** the decision it supports, the metric or outcome that might shift, the stakeholder who depends on it.
+2. **Rank by business value.** Sort goals by impact, urgency, and usefulness for decision-making.
+3. **Rewrite the top goals.** Sharpen the top 1–2 goals so they are outcome-focused and realistic within the timeline.
+4. **Suggest what to drop.** Identify which goals should be paused, removed, or reframed.
+5. **Draft a stakeholder explanation.** A short message explaining the prioritization clearly and confidently.
+
+### Follow-up angles
+- Rewrite the justification for a PM who tends to push back
+- Highlight assumptions behind lower-priority goals
