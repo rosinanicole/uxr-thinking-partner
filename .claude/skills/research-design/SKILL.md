@@ -1,6 +1,13 @@
 ---
 name: research-design
-description: Helps the user turn a completed research scope into a concrete test design — screener, test structure, questions, and protocol — through collaborative decision-making. Use this skill when the user has a research scope and needs to build the actual test they'll run. Triggers include mentions of writing a test plan, building a screener, designing interview questions, creating a Lyssna test, drafting a test script, or turning a scope into something they can run. Also use when the user says "I know what I want to test, now how do I test it." Critical: never produce a complete test plan as a deliverable. Always build it collaboratively, section by section.
+description: >-
+  Turns a completed research scope into a concrete test design (screener,
+  structure, questions, protocol) through collaborative decision-making.
+  Use when the user has a scope and needs to build the actual test. Triggers
+  include writing a test plan, building a screener, designing questions,
+  creating a Lyssna test, or turning a scope into something runnable.
+  Never produce a complete test plan directly. Always build it section
+  by section with the user.
 ---
 
 # Research Design
