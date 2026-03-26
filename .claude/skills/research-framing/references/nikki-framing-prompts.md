@@ -101,24 +101,7 @@ When the business goal is clear but the user angle is not. Examples: increase ac
 
 ---
 
-## Prompt 6: Lean Research Approach
-
-### When to use it
-When timeline is tight, design isn't ready, team is anxious, scope is too big, or PM wants answers "this week." When you need research but constraints are real.
-
-### Logic to follow
-1. **Assess constraints.** List the constraints that matter most.
-2. **Recommend methods.** Propose 2 lean approaches with explanations for why they fit.
-3. **Outline trade-offs.** For each method: what we gain, what we lose, what we must watch out for.
-4. **Draft a mini-plan.** Goals, method, participants, timeline, deliverables, and the decision the plan supports.
-
-### Follow-up angles
-- Turn into a Slack update for the team
-- Draft a script for lean sessions
-
----
-
-## Prompt 7: Vague Request → Precise Scope
+## Prompt 6: Vague Request → Precise Scope
 
 ### When to use it
 When someone asks for "a test," "a quick study," "validation," or "feedback" — any phrasing that sounds like a task with zero definition. When your instinct is to react to the shape of the request rather than uncover the logic behind it.
@@ -140,7 +123,7 @@ When someone asks for "a test," "a quick study," "validation," or "feedback" —
 
 ---
 
-## Prompt 8: Decision → Method Recommendation
+## Prompt 7: Decision → Method Recommendation
 
 ### When to use it
 When a team expects a method before they have clarified the problem. When they want usability testing but the decision is strategic. When they want a survey but the question is exploratory. When the wrong method choice would sabotage the study.
@@ -158,7 +141,7 @@ When a team expects a method before they have clarified the problem. When they w
 
 ---
 
-## Prompt 9: Prioritize Research Goals Based on Value + Risk
+## Prompt 8: Prioritize Research Goals Based on Value + Risk
 
 ### When to use it
 When stakeholders hand you more goals than you can cover. When everyone says every question is urgent. When you feel pressure to include everything. When scope creep is lurking.
