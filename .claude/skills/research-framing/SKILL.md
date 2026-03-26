@@ -112,7 +112,6 @@ Nikki Anderson's framing prompts (detailed in references/nikki-framing-prompts.m
 | A clear business goal but no research angle | Business Goal → Research Goal |
 | A specific assumption the team holds | Assumption Breaker |
 | A product change touching high-impact areas | Risk-Mapping |
-| Tight constraints (time, resources, access) | Lean Research Approach |
 | Too many research goals, scope creep | Prioritize Research Goals |
 | A clear decision but unclear method | Decision → Method Recommendation |
 | A clear decision and method already chosen | Go straight to Phase 4–5 |
