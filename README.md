@@ -29,7 +29,7 @@ The system is built on three interdependent frameworks:
 |---|---|---|
 | `/research-framing` | **Built** | Messy research need → well-scoped study |
 | `/research-design` | **Built** | From Scope to Test Plan | Turn the scope into a test plan |
-| `/research-checkpoint` | Scaffolded | Mid-study sanity checks and course correction |
+| `/research-checkpoint` | **Built** | Mid-study sanity checks and course correction |
 | `/research-synthesis` | Scaffolded | Sharpen insights, validate patterns, check bias |
 | `/research-communicate` | Scaffolded | Frame findings for audiences, build recommendations |
 
