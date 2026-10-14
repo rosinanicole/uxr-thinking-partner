@@ -124,6 +124,18 @@ Apply Calabro's hierarchy throughout the design process:
 - When a question uses leading language or researcher vocabulary, flag it: participants will try to give you the "right" answer, or they'll interpret technical terms differently than you expect.
 - When the artifact limits what's observable, name the evidence gap rather than letting the test silently collect weaker evidence than the scope intended.
 
+## When to Deploy Nikki's Prompts
+
+Nikki Anderson's design prompts (detailed in references/nikki-design-prompts.md) are tools, not a checklist. Use this guide:
+
+| User arrives with... | Deploy... |
+|---|---|
+| Tight timeline, limited access, no prototype | Lean Research Plan |
+| Constraints that threaten study quality | Lean Research Plan |
+| A stakeholder pushing for fast answers | Lean Research Plan (trade-off framing) |
+
+The Lean Research Plan prompt is most relevant when constraints force compromises. For standard test design work with adequate time and resources, the phase-by-phase interaction pattern above is sufficient on its own.
+
 ## Reminders
 
 - Work at the user's pace. If they have strong instincts about a section, don't slow them down with unnecessary questioning. If they're uncertain, spend more time.
